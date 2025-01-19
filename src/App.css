@@ -1,0 +1,103 @@
+
+/* General Body Styling */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif; /* Changed font to Roboto */
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+
+.App {
+  text-align: center;
+}
+
+/* Header Section */
+.header {
+  position: relative;
+  width: 100%;
+  height: 300px;
+}
+
+.header-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.header-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Header Text Styling */
+.product-name {
+  color: #eb8d3f;
+  font-size: 3.5rem; /* Large font size for emphasis */
+  font-family: 'Allerta Stencil', Sans-serif; /* Apply Allerta Stencil font */
+  font-weight: bold;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px rgba(152, 50, 50, 0.5);
+}
+
+/* Main Sections */
+main {
+  padding: 20px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+h2 {
+  color: #222;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 0 15px;
+}
+
+/* Team Section */
+.team-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.team-list li {
+  margin-bottom: 15px;
+}
+
+.team-list a {
+  color: #0073b1;
+  text-decoration: none;
+}
+
+.team-list a:hover {
+  text-decoration: underline;
+}
+
+/* Footer Section */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  position: relative;
+  width: 100%;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
