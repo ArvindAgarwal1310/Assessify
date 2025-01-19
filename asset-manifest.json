@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ArvindAgarwal1310/Assessify/static/css/main.56d9dfab.css",
+    "main.js": "/ArvindAgarwal1310/Assessify/static/js/main.c09fb3bb.js",
+    "static/media/header-image.jpg": "/ArvindAgarwal1310/Assessify/static/media/header-image.6dcac5ed2764a2c7ad4e.jpg",
+    "index.html": "/ArvindAgarwal1310/Assessify/index.html",
+    "main.56d9dfab.css.map": "/ArvindAgarwal1310/Assessify/static/css/main.56d9dfab.css.map",
+    "main.c09fb3bb.js.map": "/ArvindAgarwal1310/Assessify/static/js/main.c09fb3bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d9dfab.css",
+    "static/js/main.c09fb3bb.js"
+  ]
+}
